@@ -1,5 +1,5 @@
 #WEBDEV - Project
 
-#Samuel Capuras
-#John Dominic Zanoria
-#Mark Anthony Nuñez
+Samuel Capuras,
+John Dominic Zanoria,
+Mark Anthony Nuñez
