@@ -7,6 +7,12 @@ form {
     max-width: 100%;
     box-sizing: border-box;
 }
+.imagecontainer{
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 12px;
+    width: 100px;
+}
 label {
     display: block;
     margin-bottom: 8px;
